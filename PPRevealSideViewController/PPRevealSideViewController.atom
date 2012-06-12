@@ -1,18 +1,18 @@
 <?xml version="1.0" standalone="no"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:docset="http://developer.apple.com/rss/docset_extensions" xml:lang="en">
-    <id>http://ipup.github.com/PPRevealSideViewController/PPRevealSideViewController.atom/20120612135338</id>
+    <id>http://ipup.github.com/PPRevealSideViewController/PPRevealSideViewController.atom/20120612140541</id>
     <title type="text">PPRevealSideViewController Documentation</title>
     <rights>Copyright © 2012 Marian PAUL - iPuP SARL. All rights reserved.</rights>
     <link rel="self" href="http://ipup.github.com/PPRevealSideViewController/PPRevealSideViewController.atom"></link>
     <docset:publisherName>Marian PAUL - iPuP SARL</docset:publisherName>
     <docset:publisherID>fr.ipup.documentation</docset:publisherID>
-    <updated>2012-06-12T13:53:38+02:00</updated>
+    <updated>2012-06-12T14:05:41+02:00</updated>
     <entry>
         <id>tag:ipup.github.com,2012-06-12:fr.ipup.PPRevealSideViewController/1.0.0</id>
         <title type="text">PPRevealSideViewController Documentation</title>
-        <updated>2012-06-12T13:53:38+02:00</updated>
+        <updated>2012-06-12T14:05:41+02:00</updated>
         <content type="text">PPRevealSideViewController Documentation (v1.0.0)</content>
-        <link rel="enclosure" type="application/octet-stream" href="http://ipup.github.com/PPRevealSideViewController/fr.ipup.PPRevealSideViewController-1.0.xar" length="60551"></link>
+        <link rel="enclosure" type="application/octet-stream" href="http://ipup.github.com/PPRevealSideViewController/fr.ipup.PPRevealSideViewController-1.0.xar" length="60819"></link>
         <docset:identifier>fr.ipup.PPRevealSideViewController</docset:identifier>
         <docset:version>1.0.0</docset:version>
         <docset:minimumXcodeVersion>3.0.0</docset:minimumXcodeVersion>
